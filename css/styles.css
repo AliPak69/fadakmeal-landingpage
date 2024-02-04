@@ -1,0 +1,65 @@
+.custom-text {
+      font-family: 'B Mitra', sans-serif;
+      font-size: 3vw; /* Adjust the font size as needed */
+      font-weight: bold; /* Adjust the font weight as needed */
+      color: #967F18; /* Adjust the text color as needed */
+    }
+.custom-text-1 {
+      font-family: 'B Mitra', sans-serif;
+      font-size: 1.6vw; /* Adjust the font size as needed */
+      font-weight: bold; /* Adjust the font weight as needed */
+      color: #967F18; /* Adjust the text color as needed */
+    }
+.custom-text-2 {
+      font-family: 'B Mitra', sans-serif;
+      font-size: 1.6vw; /* Adjust the font size as needed */
+      font-weight: bold; /* Adjust the font weight as needed */
+      color: #967F18; /* Adjust the text color as needed */
+    }
+.custom-text-3 {
+      font-family: 'B Mitra', sans-serif;
+      font-size: 1.6vw; /* Adjust the font size as needed */
+      font-weight: bold; /* Adjust the font weight as needed */
+      color: #FFFFFF; /* Adjust the text color as needed */
+    }
+a {
+      font-family: 'MRT_beirut', sans-serif; /* Set font family for the link */
+      font-size: 1.6vw; /* Set font size for the link */
+      font-weight: bold;
+      color: #FFFFFF; /* Set link color */
+      text-decoration: none; /* Remove underline */
+      transition: color 0.3s ease; /* Add a smooth color transition */
+    }
+a:hover {
+      color: #0056b3; /* Set link color on hover */
+      text-decoration: underline;
+      text-decoration: none;/* Underline on hover */
+    }
+.custom-container {
+      width: 90%;
+      background-color: #F3EDD8; /* Set your desired background color */
+      border-radius: 10px; /* Set your desired border radius */
+      padding: 20px; /* Add padding for better visibility */
+    }
+.custom-container-2 {
+      width: 90%;
+      background-color: #AB9547; /* Set your desired background color */
+      border-radius: 10px; /* Set your desired border radius */
+      padding: 20px; /* Add padding for better visibility */
+    }
+ul.no-marker, ol.no-marker {
+      list-style-type: none;
+      padding-left: 0;
+      margin-right: 30px;
+    }
+.overflow-container {
+      max-width: none; /* Remove the maximum width of the container */
+    }
+section {
+      background-color: #FFFCEF; /* Set the background color for the section */
+      padding: 20px; /* Add padding for content inside the section */
+    }
+.rounded-image {
+      border-radius: 25px; /* Set border-radius to 50% for a circular shape */
+      overflow: hidden; /* Ensure the image stays within the rounded shape */
+    }
