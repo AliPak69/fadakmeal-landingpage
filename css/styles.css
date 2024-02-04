@@ -47,10 +47,14 @@ a:hover {
       border-radius: 10px; /* Set your desired border radius */
       padding: 20px; /* Add padding for better visibility */
     }
-ul.no-marker, ol.no-marker {
+ul.no-marker {
       list-style-type: none;
       padding-left: 0;
-      margin-right: 30px;
+    }
+ul.no-marker-1 {
+      list-style-type: none;
+      padding-left: 0;
+      margin-right: 15px;
     }
 .overflow-container {
       max-width: none; /* Remove the maximum width of the container */
