@@ -54,7 +54,7 @@ ul.no-marker {
 ul.no-marker-1 {
       list-style-type: none;
       padding-left: 0;
-      margin-right: 15px;
+      margin-right: 10px;
     }
 .overflow-container {
       max-width: none; /* Remove the maximum width of the container */
